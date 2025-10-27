@@ -1,0 +1,5 @@
+// Se debe poner la ruta donde tengas el entorno virtual para que vscode detecta automaticamente las dependencias.
+{
+    "python.pythonPath": "/mnt/c/Users/abram/Documents/crecenia/chatbot-rag/venv-linux/bin/python3",
+    "python.REPL.enableREPLSmartSend": false
+}
